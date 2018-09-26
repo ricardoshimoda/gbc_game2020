@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.20",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GAME2020_M1_RSN_BT",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
