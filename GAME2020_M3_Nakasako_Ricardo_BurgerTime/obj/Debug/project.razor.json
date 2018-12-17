@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Projects\\GBC\\03\\GAME2020\\gbc_game2020\\gbc_game2020\\GAME2020_M3_Nakasako_Ricardo_BurgerTime\\Assembly-CSharp.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
